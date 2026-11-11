@@ -1,0 +1,396 @@
+{
+  "event": "fight_night",
+  "seed": 42,
+  "fights": [
+    {
+      "position": 1,
+      "section": "Main Event",
+      "title": false,
+      "division": "Division 1",
+      "fighters": [
+        {
+          "id": "d1-1",
+          "name": "Demo 1/1",
+          "division": "Division 1",
+          "rank": 1,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d1-2",
+          "name": "Demo 1/2",
+          "division": "Division 1",
+          "rank": 2,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "section": "Co-Main Event",
+      "title": false,
+      "division": "Division 0",
+      "fighters": [
+        {
+          "id": "d0-1",
+          "name": "Demo 0/1",
+          "division": "Division 0",
+          "rank": 1,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d0-2",
+          "name": "Demo 0/2",
+          "division": "Division 0",
+          "rank": 2,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "section": "Main Card",
+      "title": false,
+      "division": "Division 1",
+      "fighters": [
+        {
+          "id": "d1-3",
+          "name": "Demo 1/3",
+          "division": "Division 1",
+          "rank": 3,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d1-4",
+          "name": "Demo 1/4",
+          "division": "Division 1",
+          "rank": 4,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "section": "Main Card",
+      "title": false,
+      "division": "Division 0",
+      "fighters": [
+        {
+          "id": "d0-3",
+          "name": "Demo 0/3",
+          "division": "Division 0",
+          "rank": 3,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d0-4",
+          "name": "Demo 0/4",
+          "division": "Division 0",
+          "rank": 4,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "section": "Main Card",
+      "title": false,
+      "division": "Division 0",
+      "fighters": [
+        {
+          "id": "d0-5",
+          "name": "Demo 0/5",
+          "division": "Division 0",
+          "rank": 5,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d0-6",
+          "name": "Demo 0/6",
+          "division": "Division 0",
+          "rank": 6,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "section": "Main Card",
+      "title": false,
+      "division": "Division 1",
+      "fighters": [
+        {
+          "id": "d1-5",
+          "name": "Demo 1/5",
+          "division": "Division 1",
+          "rank": 5,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d1-6",
+          "name": "Demo 1/6",
+          "division": "Division 1",
+          "rank": 6,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "section": "Prelims",
+      "title": false,
+      "division": "Division 0",
+      "fighters": [
+        {
+          "id": "d0-7",
+          "name": "Demo 0/7",
+          "division": "Division 0",
+          "rank": 7,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d0-8",
+          "name": "Demo 0/8",
+          "division": "Division 0",
+          "rank": 8,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "section": "Prelims",
+      "title": false,
+      "division": "Division 1",
+      "fighters": [
+        {
+          "id": "d1-7",
+          "name": "Demo 1/7",
+          "division": "Division 1",
+          "rank": 7,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d1-8",
+          "name": "Demo 1/8",
+          "division": "Division 1",
+          "rank": 8,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "section": "Prelims",
+      "title": false,
+      "division": "Division 0",
+      "fighters": [
+        {
+          "id": "d0-9",
+          "name": "Demo 0/9",
+          "division": "Division 0",
+          "rank": 9,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d0-10",
+          "name": "Demo 0/10",
+          "division": "Division 0",
+          "rank": 10,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "section": "Prelims",
+      "title": false,
+      "division": "Division 1",
+      "fighters": [
+        {
+          "id": "d1-9",
+          "name": "Demo 1/9",
+          "division": "Division 1",
+          "rank": 9,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d1-10",
+          "name": "Demo 1/10",
+          "division": "Division 1",
+          "rank": 10,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "section": "Prelims",
+      "title": false,
+      "division": "Division 1",
+      "fighters": [
+        {
+          "id": "d1-11",
+          "name": "Demo 1/11",
+          "division": "Division 1",
+          "rank": 11,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d1-12",
+          "name": "Demo 1/12",
+          "division": "Division 1",
+          "rank": 12,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "section": "Prelims",
+      "title": false,
+      "division": "Division 0",
+      "fighters": [
+        {
+          "id": "d0-11",
+          "name": "Demo 0/11",
+          "division": "Division 0",
+          "rank": 11,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d0-12",
+          "name": "Demo 0/12",
+          "division": "Division 0",
+          "rank": 12,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "section": "Prelims",
+      "title": false,
+      "division": "Division 0",
+      "fighters": [
+        {
+          "id": "d0-13",
+          "name": "Demo 0/13",
+          "division": "Division 0",
+          "rank": 13,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        },
+        {
+          "id": "d0-14",
+          "name": "Demo 0/14",
+          "division": "Division 0",
+          "rank": 14,
+          "champion": false,
+          "wins": 5,
+          "losses": 2,
+          "active": true,
+          "available": true
+        }
+      ]
+    }
+  ]
+}
